@@ -1,6 +1,0 @@
-2024/05/12-04:11:16.805 4b0f Creating DB /home/nswish/.config/vesktop/sessionData/IndexedDB/https_discord.com_0.indexeddb.leveldb since it was missing.
-2024/05/12-04:11:16.810 4b0f Reusing MANIFEST /home/nswish/.config/vesktop/sessionData/IndexedDB/https_discord.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/12-05:23:20.475 4b11 Level-0 table #5: started
-2024/05/12-05:23:20.478 4b11 Level-0 table #5: 13487 bytes OK
-2024/05/12-05:23:20.481 4b11 Delete type=0 #3
-2024/05/12-05:23:20.481 4b11 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
