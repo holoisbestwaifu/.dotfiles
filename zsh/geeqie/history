@@ -1,0 +1,13 @@
+#History lists
+
+[image_list]
+
+[shortcuts]
+"Home[path]/home/nswish"
+"Desktop[path]/home/nswish/Desktop"
+"Collections[path]/home/nswish/.local/share/geeqie/collections"
+
+[path_list]
+"/home/nswish"
+
+#end

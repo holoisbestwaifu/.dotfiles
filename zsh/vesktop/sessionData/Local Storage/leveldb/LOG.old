@@ -1,0 +1,6 @@
+2024/05/12-20:36:47.547 24ec2 Reusing MANIFEST /home/nswish/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/05/12-20:36:47.556 24ec2 Recovering log #21
+2024/05/12-20:36:47.557 24ec2 Reusing old log /home/nswish/.config/vesktop/sessionData/Local Storage/leveldb/000021.log 
+2024/05/12-22:59:49.593 24ec2 Level-0 table #25: started
+2024/05/12-22:59:49.677 24ec2 Level-0 table #25: 62080 bytes OK
+2024/05/12-22:59:49.679 24ec2 Delete type=0 #21
