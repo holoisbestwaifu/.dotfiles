@@ -6,7 +6,9 @@ TODO:
 #picom
 
 fix strange GPU chokes sound with picom GLX backend (if you want to use this dotfiles now you can experience this problem on NVIDIA Optimus laptops
+
 remove picom transparency when right-clicking 
+
 better config for transparent windows in picom
 
 #display manager
@@ -16,6 +18,8 @@ set up a theme for lightdm
 #i3-conf
 
 configure a power-profiles binds like mod+X setting up "Performance" profille with relevant tools like tlp, asusctl, etc
+
+configure keyboard layout switching when re-plugging keyboard
 
 #Nvidia
 
