@@ -25,3 +25,7 @@ configure keyboard layout switching when re-plugging keyboard
 
 configure a "hot swap" between my home setup "3 HiDPI monitors" and laptop setup "just 1 2K monit"
 practically: removing all cables and go, without any X11 glitches
+
+#fans
+
+get curves configs at asus ROG G513RW (asusctl doesn't work properly)
