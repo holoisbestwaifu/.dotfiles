@@ -7,9 +7,10 @@ TODO:
 
 fix strange GPU chokes sound with picom GLX backend (if you want to use this dotfiles now you can experience this problem on NVIDIA Optimus laptops
 
+--> fixed by adding vsync option to configs, configuring power plans in rog/asus ctl and curves.
+
 remove picom transparency when right-clicking 
 
-better config for transparent windows in picom
 
 #display manager
 
