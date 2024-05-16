@@ -17,7 +17,7 @@ set up a theme for lightdm
 
 #i3-conf
 
-configure a power-profiles binds like mod+X setting up "Performance" profille with relevant tools like tlp, asusctl, etc
+configure a power-profiles binds like mod+X setting up "Performance" profille with relevant tools like tlp, asusctl, etc, !!!FAN CURVES!!!
 
 configure keyboard layout switching when re-plugging keyboard
 
@@ -26,6 +26,8 @@ configure keyboard layout switching when re-plugging keyboard
 configure a "hot swap" between my home setup "3 HiDPI monitors" and laptop setup "just 1 2K monit"
 practically: removing all cables and go, without any X11 glitches
 
+
 #fans
 
 get curves configs at asus ROG G513RW (asusctl doesn't work properly)
+--> solved by configure rog-fan-curve and rog-daemon.
